@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "56689873366",
+    "firebase_url": "https://pregamers-dd423.firebaseio.com",
+    "project_id": "pregamers-dd423",
+    "storage_bucket": "pregamers-dd423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56689873366:android:9c398b8c5610007a621477",
+        "android_client_info": {
+          "package_name": "com.themarinator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56689873366-4njpmjdlc0t2ksf91e5ufppi4dp9k272.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.themarinator",
+            "certificate_hash": "04b77713034b911cfc27d34d5908c16dc8c21a96"
+          }
+        },
+        {
+          "client_id": "56689873366-r5d3k18ghvuuv0r9nh71hbr5vi74plr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzvSFr3c_XCrTDyFjRzTYfqPLSfS17WnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56689873366-r5d3k18ghvuuv0r9nh71hbr5vi74plr4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56689873366-jq0hpnop3okm6lhflnobkdvq46kgh8vn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.themarinator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
